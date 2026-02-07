@@ -58,7 +58,7 @@ Banking-System/
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/Dilshan-wijayawardhane/Banking-System.git
 
 2. Open the project in your Java IDE
@@ -67,9 +67,8 @@ git clone https://github.com/Dilshan-wijayawardhane/Banking-System.git
  javac Main.java
 java Main
 
-## 🖼️ Screenshot
+---
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b39e060-c6d5-412b-9a24-4db1311f2dea" />
 
 ## 📈 Learning Outcomes
 
@@ -80,9 +79,13 @@ java Main
 - Error handling and validation
 - Git and GitHub version control
 
+---
+
 ## 👨‍💻 Author
 
 Dilshan Wijayawardhane
+
+---
 
 ## 📜 License
 
